@@ -3,6 +3,10 @@
 
 This is an interactive web application that allows users to draw a digit on a canvas, and the trained model will predict the digit in real-time. Additionally, you can visualize the prediction process in 3D, showcasing intermediate layer outputs of the neural network.
 
+Live Demo
+
+Check out the live demo of this project here: https://handwritten-digit-recognition-fk9jderuo.vercel.app
+
 🚀 Getting Started
 
 Prerequisites
